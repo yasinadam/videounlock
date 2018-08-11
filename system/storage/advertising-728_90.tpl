@@ -1,0 +1,1 @@
+<img class="img-auto" src="https://via.placeholder.com/728x90">

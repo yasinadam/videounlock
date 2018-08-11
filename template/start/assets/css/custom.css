@@ -1,0 +1,75 @@
+.advertising {
+    margin: 0px !important;
+}
+
+.language-list {
+    text-transform: uppercase;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.btn-download {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.badge-duration {
+    position: absolute;
+    left: 25px;
+    top: 10px;
+    padding: 4px;
+    opacity: 0.5;
+}
+
+.badge-duration:hover {
+    opacity: 1;
+}
+
+.loading-spinner {
+    font-size: 5rem;
+}
+
+#share-buttons a {
+    color: white !important;
+}
+
+.video-links {
+    text-transform: uppercase;
+}
+
+.fa-stack {
+    font-size: 0.6em !important;
+    height: 2.3em;
+}
+
+#show-all {
+    padding: 0.3rem;
+    float: right;
+}
+
+#show-all .arrow-up {
+    display: none;
+}
+
+#show-all[aria-expanded="true"] .arrow-down{
+    display: none;
+}
+
+#show-all[aria-expanded="true"] .arrow-up{
+    display: inline-block;
+}
+
+#show-all[aria-expanded="false"] .arrow-up{
+    display: none;
+}
+
+
+.header-logo {
+    max-width: 330px;
+}
+
+.header-title {
+    font-size: 1.5rem;
+}
